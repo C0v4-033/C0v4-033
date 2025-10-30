@@ -1,4 +1,4 @@
-# 👋 ¡Hola, soy Anthua Colin Villalobos!
+# 👋 ¡Hola, soy Anthua Colin!
 
 🧠 Ingeniero en implementaciones  
 🎓 Estudiante de Ingeniería en Ciberseguridad  
@@ -15,8 +15,8 @@ Mi objetivo en GitHub es **colaborar** con otros desarrolladores y **compartir h
 
 ## 🧰 Tecnologías favoritas
 
-- 🐍 Python (CustomTkinter, PIL, automatización)
-- 🍎 Swift (interfaces para iOS)
+- 🐍 Python 
+- 🍎 Swift 
 - 🔐 Ciberseguridad (en formación)
 - 🧪 Scripts funcionales y herramientas internas
 
