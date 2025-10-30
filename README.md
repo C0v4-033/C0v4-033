@@ -51,8 +51,8 @@ Este sistema es ideal para monitoreo visual, documentación de obras o vigilanci
 
 ## 📊 Estadísticas de GitHub
 
-![Anthua's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anthuacv&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anthuacv&layout=compact&theme=radical)
+![Anthua's GitHub Stats](https://github-readme-stats.vercel.app/api?username=C0v4-033&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=C0v4-033&layout=compact&theme=radical)
 
 ---
 
